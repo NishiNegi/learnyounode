@@ -1,6 +1,6 @@
 const fs = require ('fs')
 const { type } = require('os')
-path = process.argv[2]
+const path = process.argv[2]
 
 
 const buf = fs.readFileSync(path)
