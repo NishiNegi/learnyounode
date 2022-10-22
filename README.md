@@ -7,3 +7,5 @@ This repository contains solutions for Learnyounode exercises.
 04. My First Async io
 05. Filtered LS
 06. Make it Modular (Two files: ```06-make-it-modular.js``` and module, ```06-mymodule.js```)
+07. HTTP Client
+
