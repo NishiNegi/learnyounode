@@ -9,4 +9,5 @@ This repository contains solutions for Learnyounode exercises.
 06. Make it Modular (Two files: ```06-make-it-modular.js``` and module, ```06-mymodule.js```)
 07. HTTP Client
 08. HTTP Collect
+09. Juggling Async
 
