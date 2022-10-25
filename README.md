@@ -11,4 +11,5 @@ This repository contains solutions for Learnyounode exercises.
 08. HTTP Collect
 09. Juggling Async
 10. Time Server
+11. HTTP File Server
 
